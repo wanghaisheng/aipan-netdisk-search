@@ -1,32 +1,20 @@
 [
-  {
-    "api": "/api/sources"
+ {
+    "api": "/api/sources/aipan-search"
   },
   {
-    "api": "/api/sources/indexA"
+    "api": "/api/sources/x"
   },
   {
-    "api": "/api/sources/indexB"
+    "api": "/api/sources/xx"
   },
-  {
-    "api": "/api/sources/indexC"
-  },
-  {
-    "api": "/api/sources/indexD"
-  },
-  {
-    "api": "/api/sources/indexE"
-  },
-  {
-    "api": "/api/sources/indexF"
-  },
-  {
-    "api": "/api/sources/indexG"
-  },
-  {
-    "api": "/api/sources/indexH"
-  },
-  {
+    {
     "api": "/api/sources/indexI"
+  },
+  {
+    "api": "/api/sources/xxx"
+  },
+  {
+    "api": "/api/sources/xxxx"
   }
 ]
